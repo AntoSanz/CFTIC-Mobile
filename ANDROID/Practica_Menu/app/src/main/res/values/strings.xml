@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticaMenu</string>
+    <string name="sel_menu">Selecciona Menú</string>
+    <string name="breakfast">Desayuno</string>
+    <string name="lunch">Comida</string>
+    <string name="dinner">Cena</string>
+</resources>

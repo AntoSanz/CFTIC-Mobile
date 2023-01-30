@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EjemploSpinnerCheckbox</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="bg_color">Background</string>
+    <string name="txt_color">Texto</string>
+    <string name="accept">Aceptar</string>
+    <string name="red">Rojo</string>
+    <string name="blue">Azul</string>
+</resources>

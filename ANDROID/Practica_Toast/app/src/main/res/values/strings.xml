@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticaToast</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+</resources>

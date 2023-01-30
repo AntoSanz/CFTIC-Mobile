@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejemplo3</string>
+    <string name="calc">Calcular</string>
+    <string name="set_calif">Introduzca nota entre 0 y 20</string>
+</resources>

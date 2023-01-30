@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CuadrosDeDialogo</string>
+    <string name="message">Mensaje</string>
+    <string name="confirm">Confirmación</string>
+    <string name="simple_select">Selección simple</string>
+    <string name="multiple_select">Selección múltiple</string>
+</resources>

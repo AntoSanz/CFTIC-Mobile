@@ -1,0 +1,50 @@
+create table	CLIENTES(
+		COD_CLIENTE int,
+        APELLIDOS varchar (14),
+        NOMBRE varchar (14),
+        DNI varchar (9),
+        TELEFONO_I int,
+        TELEFONO_II int,
+        DIRECCION varchar(30),
+        POBLACION varchar (14),
+        primary key ( COD_CLIENTE)
+	);
+    
+create table PISOS(
+		MOD_PISO int,
+        FINALIZACION_CONSTRUCCION date,
+        PRECIO int,
+        PRECIO_IVA int,
+        primary key (MOD_PISO)
+        
+	);
+    
+    
+create table VENTA_PISOS(
+		COD_CLIENTE int,
+        FECHA_VENTA date,
+        MOD_PISO int,
+        COD_PISO int,
+        primary key(COD_PISO),
+        foreign key(COD_CLIENTE) references CLIENTES(COD_CLIENTE),
+        foreign key(MOD_PISO) references PISOS(MOD_PISO)
+	);
+    
+
+create table CHALET(
+		MOD_CHALET varchar(6),
+        FINALIZACION_CONSTRUCCION date,
+        PRECIO int,
+        PRECIO_IVA int,
+        primary key (MOD_CHALET)
+	);
+
+create table VENTA_CHALET(
+		COD_CLIENTE int,
+        FECHA_VENTA date,
+        MOD_CHALET varchar (6),
+        COD_CHALET int,
+        primary key(COD_CHALET),
+        foreign key(COD_CLIENTE) references CLIENTES(COD_CLIENTE),
+        foreign key(MOD_CHALET) references CHALET(MOD_CHALET)
+	);

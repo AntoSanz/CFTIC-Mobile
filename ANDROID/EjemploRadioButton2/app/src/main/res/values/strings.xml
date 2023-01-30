@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EjemploRadioButton2</string>
+    <string name="name">Nombre</string>
+    <string name="upper_case">Mayúsculas</string>
+    <string name="lower_case">Minúsculas</string>
+    <string name="red">Rojo</string>
+    <string name="blue">Azul</string>
+    <string name="send">Enviar</string>
+    <string name="no_text">NO HAS ESCRITO NINGUN TEXTO</string>
+</resources>

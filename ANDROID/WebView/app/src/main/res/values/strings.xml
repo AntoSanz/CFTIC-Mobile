@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica WebView</string>
+    <string name="navigate">Navegar</string>
+<string name="back">Volver</string>
+</resources>

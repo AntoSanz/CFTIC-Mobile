@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name" />
+
+    <RadioGroup
+        android:id="@+id/rg1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onChangeRadioButton">
+
+        <RadioButton
+            android:id="@+id/rdbBlue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:onClick="onChangeRadioButton"
+            android:text="@string/blue" />
+
+        <RadioButton
+            android:id="@+id/rdbGreen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onChangeRadioButton"
+            android:text="@string/green" />
+
+        <RadioButton
+            android:id="@+id/rdbRed"
+            android:layout_width="413dp"
+            android:layout_height="wrap_content"
+            android:onClick="onChangeRadioButton"
+            android:text="@string/red" />
+
+        <RadioButton
+            android:id="@+id/rdbYellow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onChangeRadioButton"
+            android:text="@string/yellow" />
+
+        <Button
+            android:id="@+id/btnAcept"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onClickChangeColor"
+            android:text="@string/acept" />
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/lbResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:textSize="30sp" />
+
+</LinearLayout>
