@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FormularioConAlertas.MainPage">
+
+    <StackLayout Orientation="Vertical" Margin="10,60,10,50">
+        <Label Text="ALTA ALUMNO CURSO PROGRAMAITORS" HorizontalOptions="Center" />
+        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" Margin="10">
+            <Entry x:Name="inName" Placeholder="Nombre" HorizontalOptions="FillAndExpand" Keyboard="Text" />
+            <Entry x:Name="inSurName" Placeholder="Apellido" HorizontalOptions="FillAndExpand" Keyboard="Text" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" Margin="10">
+            <Entry x:Name="inCity" Placeholder="Ciudad" HorizontalOptions="FillAndExpand" Keyboard="Text"/>
+            <Entry x:Name="inAge" Placeholder="Edad" HorizontalOptions="FillAndExpand" Keyboard="Numeric" />
+        </StackLayout>
+        <StackLayout Margin="10" HorizontalOptions="FillAndExpand" Orientation="Vertical">
+            <Button x:Name="btnGender" Text="Sexo" BackgroundColor="#007AFF" TextColor="#F2F2F7" FontAttributes="Bold" HorizontalOptions="FillAndExpand" Margin="0, 10"/>
+            <Button x:Name="btnTermsAndConditions" Text="Aceptar términos" BackgroundColor="#007AFF" TextColor="#F2F2F7" FontAttributes="Bold"  Margin="0, 10" HorizontalOptions="FillAndExpand"/>
+            <Button x:Name="btnAccept" Text="Registrar" BackgroundColor="#007AFF" TextColor="#F2F2F7" FontAttributes="Bold" Margin="0, 10" HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

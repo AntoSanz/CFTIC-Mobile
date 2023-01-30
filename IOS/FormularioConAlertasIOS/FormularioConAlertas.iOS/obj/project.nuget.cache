@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f4WKVgYBjBURE2j8AA3eqDbHD+7Cdstviq8G6Fy1Gc80xaQd9yD1qhH83AlpZZ2O/EGzggCdRGkR6sSGn+SDyQ==",
+  "success": true,
+  "projectFilePath": "/Users/mananas/Projects/FormularioConAlertas/FormularioConAlertas.iOS/FormularioConAlertas.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/mananas/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/mananas/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

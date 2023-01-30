@@ -1,0 +1,14 @@
+/Users/mananas/Projects/FormularioConAlertas/FormularioConAlertas/bin/Debug/netstandard2.0/FormularioConAlertas.deps.json
+/Users/mananas/Projects/FormularioConAlertas/FormularioConAlertas/bin/Debug/netstandard2.0/FormularioConAlertas.dll
+/Users/mananas/Projects/FormularioConAlertas/FormularioConAlertas/bin/Debug/netstandard2.0/ref/FormularioConAlertas.dll
+/Users/mananas/Projects/FormularioConAlertas/FormularioConAlertas/bin/Debug/netstandard2.0/FormularioConAlertas.pdb
+/Users/mananas/Projects/FormularioConAlertas/FormularioConAlertas/obj/Debug/netstandard2.0/FormularioConAlertas.csprojAssemblyReference.cache
+/Users/mananas/Projects/FormularioConAlertas/FormularioConAlertas/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mananas/Projects/FormularioConAlertas/FormularioConAlertas/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mananas/Projects/FormularioConAlertas/FormularioConAlertas/obj/Debug/netstandard2.0/FormularioConAlertas.AssemblyInfoInputs.cache
+/Users/mananas/Projects/FormularioConAlertas/FormularioConAlertas/obj/Debug/netstandard2.0/FormularioConAlertas.AssemblyInfo.cs
+/Users/mananas/Projects/FormularioConAlertas/FormularioConAlertas/obj/Debug/netstandard2.0/FormularioConAlertas.csproj.CoreCompileInputs.cache
+/Users/mananas/Projects/FormularioConAlertas/FormularioConAlertas/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mananas/Projects/FormularioConAlertas/FormularioConAlertas/obj/Debug/netstandard2.0/FormularioConAlertas.dll
+/Users/mananas/Projects/FormularioConAlertas/FormularioConAlertas/obj/Debug/netstandard2.0/ref/FormularioConAlertas.dll
+/Users/mananas/Projects/FormularioConAlertas/FormularioConAlertas/obj/Debug/netstandard2.0/FormularioConAlertas.pdb
