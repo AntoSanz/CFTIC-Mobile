@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B6B3D1E1-7F2A-4FA6-9CB3-B37AACB6DDD1}|Default" HasHotReloadOverlayBeenDismissed="True">
+  <MonoDevelop.Ide.ItemProperties.NumeroISBN.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B92B89CF-C796-45F1-9162-CC9FB4786772" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumeroISBN/MainPage.xaml.cs">
+    <Files>
+      <File FileName="NumeroISBN/MainPage.xaml.cs" Line="23" Column="35" />
+      <File FileName="NumeroISBN/MainPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NumeroISBN" expanded="True">
+            <Node name="NumeroISBN" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NumeroISBN.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.Pixel_3a_API_26" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

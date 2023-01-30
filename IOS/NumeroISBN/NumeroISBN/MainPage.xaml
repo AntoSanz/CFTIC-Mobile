@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NumeroISBN.MainPage">
+
+    <StackLayout>
+        <Label Text="Numero ISBN:" ></Label>
+        <Entry Placeholder="Numero ISBN" x:Name="inIsbn" />
+        <Button Text="Validar ISBN" x:Name="btnExe" />
+        <Label  x:Name="lbValidated"></Label>
+    </StackLayout>
+
+</ContentPage>

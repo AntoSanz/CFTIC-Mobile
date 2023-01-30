@@ -1,0 +1,14 @@
+/Users/mananas/Projects/NumeroISBN/NumeroISBN/bin/Debug/netstandard2.0/NumeroISBN.deps.json
+/Users/mananas/Projects/NumeroISBN/NumeroISBN/bin/Debug/netstandard2.0/NumeroISBN.dll
+/Users/mananas/Projects/NumeroISBN/NumeroISBN/bin/Debug/netstandard2.0/ref/NumeroISBN.dll
+/Users/mananas/Projects/NumeroISBN/NumeroISBN/bin/Debug/netstandard2.0/NumeroISBN.pdb
+/Users/mananas/Projects/NumeroISBN/NumeroISBN/obj/Debug/netstandard2.0/NumeroISBN.csprojAssemblyReference.cache
+/Users/mananas/Projects/NumeroISBN/NumeroISBN/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mananas/Projects/NumeroISBN/NumeroISBN/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mananas/Projects/NumeroISBN/NumeroISBN/obj/Debug/netstandard2.0/NumeroISBN.AssemblyInfoInputs.cache
+/Users/mananas/Projects/NumeroISBN/NumeroISBN/obj/Debug/netstandard2.0/NumeroISBN.AssemblyInfo.cs
+/Users/mananas/Projects/NumeroISBN/NumeroISBN/obj/Debug/netstandard2.0/NumeroISBN.csproj.CoreCompileInputs.cache
+/Users/mananas/Projects/NumeroISBN/NumeroISBN/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mananas/Projects/NumeroISBN/NumeroISBN/obj/Debug/netstandard2.0/NumeroISBN.dll
+/Users/mananas/Projects/NumeroISBN/NumeroISBN/obj/Debug/netstandard2.0/ref/NumeroISBN.dll
+/Users/mananas/Projects/NumeroISBN/NumeroISBN/obj/Debug/netstandard2.0/NumeroISBN.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Al0rKm3YkPoR1O40wFyYfx9j+g26x4WXtkZ5XIz7M4JsULF/JUyMgclR9HYUct8ipIZlqm0Wa9rdQdiODZOacA==",
+  "success": true,
+  "projectFilePath": "/Users/mananas/Projects/NumeroISBN/NumeroISBN/NumeroISBN.csproj",
+  "expectedPackageFiles": [
+    "/Users/mananas/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/mananas/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/mananas/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/mananas/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/mananas/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
